@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    gap: 20px;
+    color: white;
+    padding: 20px 20px;
+    background-color: black ;
+}
+
+
+
+.header-items {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
