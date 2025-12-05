@@ -1,12 +1,22 @@
 .header {
     display: flex;
-    gap: 20px;
+    gap: 32px;
     color: white;
     padding: 20px 20px;
     background-color: black ;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
 }
 
-
+.logo {
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 64px;
+    border: 2px solid #fff;
+}
 
 .header-items {
     display: flex;
